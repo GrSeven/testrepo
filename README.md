@@ -1,4 +1,5 @@
 # testrepo
+<<<<<<< HEAD
 for learning git start with looking at tutorials and documentation for git: clone, add, commit, push, pull, status and branch/checkout. 
 
 ## Please do the following:
@@ -28,3 +29,8 @@ git pull
 And it will update your local repo. If you want to see what happens when you make local changes and the master changes as well then change something locally, don't push it and then try repeat the example of changing the file directly in GitHub.
 
 If the others in the group are changing their files, you will also see that your local repo falls behind.
+=======
+for learning git
+Viktor changing manually in own folder and then pushing
+Viktor changing on github and then pulling
+>>>>>>> be9f3a3c1a54fdf5bdf9f71ef2ad3aa42a296ee3
